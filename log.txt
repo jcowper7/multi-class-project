@@ -1,0 +1,113 @@
+commit 6429bc8711353baadfb7978b1f9e2579ebf4f5ea
+Author: jcowper7newc <91876038+jcowper7newc@users.noreply.github.com>
+Date:   Tue Jan 4 19:19:51 2022 +0000
+
+    adding latest code as backup
+
+commit ae2f6fefeee7dfdb08aed63da7938ba233ce2e71
+Author: jcowper7newc <91876038+jcowper7newc@users.noreply.github.com>
+Date:   Tue Jan 4 19:18:29 2022 +0000
+
+    update charts
+
+commit 2e09023c3bf9df1bf5f2221675c59fc4ea50e0c6
+Author: jcowper7newc <91876038+jcowper7newc@users.noreply.github.com>
+Date:   Tue Jan 4 09:49:44 2022 +0000
+
+    charts used in report
+
+commit 10fa19e9fe6302b4a2eb5a72994a8ff94aaacc0e
+Author: jcowper7newc <91876038+jcowper7newc@users.noreply.github.com>
+Date:   Tue Jan 4 09:32:56 2022 +0000
+
+    remove raw open data due to size and instead use labelled data
+
+commit 16fda5699df327f74281ff84fa81dc15e72be426
+Author: jcowper7newc <91876038+jcowper7newc@users.noreply.github.com>
+Date:   Fri Dec 10 15:09:41 2021 +0000
+
+    pre-processing code
+
+commit 0d929bea46fba4d083ebecb7cd6b18ce9b5c92c0
+Author: jcowper7newc <91876038+jcowper7newc@users.noreply.github.com>
+Date:   Fri Dec 10 15:05:30 2021 +0000
+
+    troubleshooting
+
+commit 0fe16809401d79cf0375d1fa55b94127b84ea087
+Author: jcowper7newc <91876038+jcowper7newc@users.noreply.github.com>
+Date:   Sun Dec 5 16:32:59 2021 +0000
+
+    Add files via upload
+    
+    Labelled dataset available from https://www.kaggle.com/c/amazon-pet-product-reviews-classification/data. This will form the labelled basis of pet product classification used within the models for supervised learning.
+
+commit 05263e7c0dda23fb6cc280fc70b96ceeefdff55b
+Author: jcowper7newc <91876038+jcowper7newc@users.noreply.github.com>
+Date:   Sun Dec 5 16:30:51 2021 +0000
+
+    Create nested-files
+
+commit a3bb9d1f20680dfcb5d9bd7f99e3867592477dd9
+Author: jcowper7newc <91876038+jcowper7newc@users.noreply.github.com>
+Date:   Sun Dec 5 16:29:34 2021 +0000
+
+    Delete valid.csv
+
+commit ca96c1abcd6d4e8451de4ba3b18ef798b65d9829
+Author: jcowper7newc <91876038+jcowper7newc@users.noreply.github.com>
+Date:   Sun Dec 5 16:29:25 2021 +0000
+
+    Delete train.csv
+
+commit e4b497ff806c3d21a61067da3a9d9431999cea45
+Author: jcowper7newc <91876038+jcowper7newc@users.noreply.github.com>
+Date:   Sun Dec 5 16:29:18 2021 +0000
+
+    Delete test.csv
+
+commit 11ca0d90ca33fcd1dbe54a1eb577000f12db4996
+Author: jcowper7newc <91876038+jcowper7newc@users.noreply.github.com>
+Date:   Sun Dec 5 16:29:07 2021 +0000
+
+    Delete data directory
+
+commit 51db661602e4640a628c988f79a28f975dd96b63
+Author: jcowper7newc <91876038+jcowper7newc@users.noreply.github.com>
+Date:   Sun Dec 5 16:27:47 2021 +0000
+
+    Create a
+
+commit f75078f625cc2cfb3d6921f7fcad282944f919e0
+Author: jcowper7newc <91876038+jcowper7newc@users.noreply.github.com>
+Date:   Sun Dec 5 16:27:10 2021 +0000
+
+    Delete data
+
+commit db6b95f09ef6093736f060618ec37a84a6e219f5
+Author: jcowper7newc <91876038+jcowper7newc@users.noreply.github.com>
+Date:   Sun Dec 5 16:26:41 2021 +0000
+
+    Create data
+
+commit 69544a6e8f18b1f03d4199eabe262bc3e1166434
+Author: jcowper7newc <91876038+jcowper7newc@users.noreply.github.com>
+Date:   Sun Dec 5 16:24:40 2021 +0000
+
+    Add files via upload
+    
+    Labelled data for Amazon Pet reviews available at https://www.kaggle.com/c/amazon-pet-product-reviews-classification/data.
+    
+    This will form the basis of supervised model training based on pet classification.
+
+commit d8a710faae387e4323fa7b30f475212c95ef0630
+Author: jcowper7newc <91876038+jcowper7newc@users.noreply.github.com>
+Date:   Sun Dec 5 12:11:42 2021 +0000
+
+    Update README.md
+
+commit bf5547278448b54eae6f5497154b888bfa9bca82
+Author: jcowper7newc <91876038+jcowper7newc@users.noreply.github.com>
+Date:   Sun Dec 5 12:08:52 2021 +0000
+
+    Initial commit
