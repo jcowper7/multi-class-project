@@ -1,0 +1,16 @@
+.gitattributes
+README.md
+charts/fig1.png
+charts/fig10.png
+charts/fig2.png
+charts/fig4.png
+charts/fig5.png
+charts/fig6.png
+charts/fig8.png
+charts/fig9.png
+code/CSC8635_Project_Code_Pet_Product_Classification.ipynb
+data/train.csv
+data/valid.csv
+log.txt
+report/CSC8635 Project Report - Josh Cowper.html
+report/CSC8635 Project Report - Josh Cowper.pdf

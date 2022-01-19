@@ -1,3 +1,21 @@
+commit 5635cf9a0a331d5ee15cad4925ead7a84e44ac55
+Author: jcowper7newc <91876038+jcowper7newc@users.noreply.github.com>
+Date:   Wed Jan 19 13:51:49 2022 +0000
+
+    Updated report summary
+
+commit e0812f8ae58eaa744be45746cc5c5c52803a6511
+Author: jcowper7newc <91876038+jcowper7newc@users.noreply.github.com>
+Date:   Mon Jan 17 22:10:04 2022 +0000
+
+    remove non-used folder
+
+commit fa2e40669458ad2ebd3a7f12b1ff9dbff4471e18
+Author: jcowper7newc <91876038+jcowper7newc@users.noreply.github.com>
+Date:   Mon Jan 17 22:08:09 2022 +0000
+
+    Charts and figures updated to latest - in particular evaluation. Report text updated. PDF and HTML final files added to report folder
+
 commit 6429bc8711353baadfb7978b1f9e2579ebf4f5ea
 Author: jcowper7newc <91876038+jcowper7newc@users.noreply.github.com>
 Date:   Tue Jan 4 19:19:51 2022 +0000
